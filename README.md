@@ -13,7 +13,7 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 ---
 
 ## To start setting up the project
-
+To start bAckend-
 Step 1: Clone the repo
 
 ```bash
@@ -37,15 +37,20 @@ Step 4: Start the chat app
 ```bash
 npm start
 ```
+to start Frontend
+step 1- install all dependencies
+```
+npm i --legacy-peer-deps
+```
+step 2- start the app
+```
+npm start
+```
 
-## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
 
 ## Contribute
 
 You can fork this repo and send me a PR.
 
-## License
 
-This project is licensed under the MIT License.
